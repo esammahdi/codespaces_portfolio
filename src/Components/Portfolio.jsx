@@ -31,28 +31,25 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "ShoppingCart",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A simple responsive and dynamic website with CRUD operations and Identity verification made with ASP.NET Core MVC.",
+    url: "github.com/esammahdi/ShoppingCart",
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    title: "Video-App",
+    description: "A Flutter WebRTC P2P Video Calling App.",
+    url: "github.com/esammahdi/Video-App",
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    title: "Sosyal-Medya",
+    description: "A social media app made with Java and Firebase.",
+    url: "github.com/esammahdi/Sosyal-Medya",
   },
   {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "Terrain-Generator",
+    description: "A simple procedural 3D terrain generator made using Processing Language.",
+    url: "github.com/esammahdi/Terrain-Generator",
   },
 ];
 
